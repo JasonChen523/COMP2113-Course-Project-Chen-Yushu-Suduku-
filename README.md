@@ -2,6 +2,8 @@
 
 ##Group menber: Chen Yushu 3035829508
 
+video link: https://drive.google.com/file/d/1E5N86LfrSWFOwR8_7qhk0GextmSk6pwX/view?usp=sharing
+
 1. Introduction and Discription
 
   1.1 Brief Introduction
