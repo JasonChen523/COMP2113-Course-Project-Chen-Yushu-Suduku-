@@ -1,6 +1,6 @@
 # COMP2113-Course-Project-Chen-Yushu-Sudoku-
 
-##Group menber: Chen Yushu 
+##Group menber: Chen Yushu 3035829508
 
 ##Description
 My game is inspired by the famous game Sudoku. In my project, there is a gameboard with four rows and four columns, constructing a 4*4 square and totally 16.
