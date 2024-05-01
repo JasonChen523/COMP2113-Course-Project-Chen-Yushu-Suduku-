@@ -22,8 +22,6 @@ video link: https://drive.google.com/file/d/1E5N86LfrSWFOwR8_7qhk0GextmSk6pwX/vi
    2.3 I use dynamic memory management to form my initial gameboard. I use lists. Using this dynamic memory manegement is to make sure my initial gameboard is solvable because is not every random full gameboard can make sure every row, column and small 2*2 square has no repeated number.
    2.4 When game begins, I will output a gameboard with a few blank squares. Then I will let players to input orders and numbers. When players fill in a number, I will print an updated gameboard. When players want to change a number in a particular position, I allowed them to input the cordinate and change the number. And when the game is completed, my program will ask players whether to end the game or play again.
    2.5 In cpp documents, I write comments to explain my logic.
-
-3. Quick Start
    
    
    
